@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Test Engineer (2+ years)** specializing in both  
+I am a **Software Test Engineer** specializing in both  
 **Web UI Automation** and **API Automation**.
 
 - 🔍 Strong in **Java + Selenium**  
@@ -64,15 +64,15 @@ I am a **Software Test Engineer (2+ years)** specializing in both
 - 🔹 **Selenium Hybrid Framework** – Java, TestNG, POM  
 - 🔹 **API Automation Framework** – Rest-Assured + Maven  
 - 🔹 **Postman Collections** – Automated API suites  
-- 🔹 **GitHub Actions CI Pipeline for Test Automation**
+- 🔹 **Jenkins CI Pipeline for Test Automation**
 
 > Want me to generate these project skeletons for you? Just tell me!
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** *Add your link*  
-- **Email:** *Add your email*  
+- **LinkedIn:** *www.linkedin.com/in/trisulam-r*  
+- **Email:** *thrisulam008@gmail.com*  
 
 ---
 
