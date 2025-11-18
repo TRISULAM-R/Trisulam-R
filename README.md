@@ -27,14 +27,20 @@ I am a **Software Test Engineer** specializing in both
   <img src="https://img.shields.io/badge/TestNG-%23007396.svg?logo=testng&logoColor=white" />
   <img src="https://img.shields.io/badge/RestAssured-000000?logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-191919?logo=testrail&logoColor=white" />
+  <img src="https://img.shields.io/badge/qTest-1A73E8?logo=qtest&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 DevOps, Monitoring & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppDynamics-2F2F2F?logo=appdynamics&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white" />
 </p>
 
