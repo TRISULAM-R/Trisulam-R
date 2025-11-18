@@ -60,7 +60,7 @@ I am a **Software Test Engineer** specializing in both
 
 ---
 
-## 📂 Featured Projects (Add when ready)
+## 📂 Featured Projects
 - 🔹 **Selenium Hybrid Framework** – Java, TestNG, POM  
 - 🔹 **API Automation Framework** – Rest-Assured + Maven  
 - 🔹 **Postman Collections** – Automated API suites  
